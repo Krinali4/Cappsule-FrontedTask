@@ -14,11 +14,10 @@ This project is built using Vite and React.
 ```npm run dev```
 
 
-##Thank you 
-Thank you for taking the time to complete the assignment. We appreciate your effort in completing the assignment. 
+## Thank you 
 
-Best,
+Thank you for taking the time to complete the assignment. We appreciate your effort in completing the assignment.  
 
-Jaiben
+Jaiben  
 Cappsule
 
