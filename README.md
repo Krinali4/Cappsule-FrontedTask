@@ -18,6 +18,7 @@ This project is built using Vite and React.
 Thank you for taking the time to complete the assignment. We appreciate your effort in completing the assignment. 
 
 Best,
+
 Jaiben
 Cappsule
 
