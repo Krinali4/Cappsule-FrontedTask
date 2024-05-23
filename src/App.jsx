@@ -13,7 +13,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const handleSearch = () => {
+  const handleSearch =  () => {
     if (!searchQuery.trim()) {
       setError("please enter something");
       return;
