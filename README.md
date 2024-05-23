@@ -15,6 +15,9 @@ This project is built using Vite and React.
 
 
 ##Thank you 
-Thank you for taking the time to check my assignment. I appreciate your effort and would love to receive any feedback you might have. Your insights and suggestions are highly valued and will help me improve further.
+Thank you for taking the time to complete the assignment. We appreciate your effort in completing the assignment. 
 
+Best,
+Jaiben
+Cappsule
 
