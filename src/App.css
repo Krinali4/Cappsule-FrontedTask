@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+#root {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #000;
+  font-size: 16px;
+}
+
+* {
+  scrollbar-gutter: stable;
+}
+
+.meds-container {
+  background: linear-gradient(275.41deg, #d5e7e6 -27.33%, #ffffff 46.85%);
+  box-shadow: 0px 0px 30px 0px #0000001a;
+}
